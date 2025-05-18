@@ -1,0 +1,5 @@
+pygame
+cvzone
+mediapipe
+opencv-python-headless
+numpy
