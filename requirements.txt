@@ -1,7 +1,6 @@
-opencv-python
-cvzone
+opencv-python-headless
+opencv-contrib-python-headless
 pygame
-tensorflow
-streamlit
-Pillow
+cvzone
 numpy
+tensorflow
