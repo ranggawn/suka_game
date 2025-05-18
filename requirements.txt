@@ -1,5 +1,5 @@
 pygame
 cvzone
 mediapipe
-opencv-python
+opencv-contrib-python
 numpy
