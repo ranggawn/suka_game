@@ -1,5 +1,7 @@
 pygame
 cvzone
 mediapipe
+opencv-python
 opencv-contrib-python
 numpy
+libgl1-mesa-glx
