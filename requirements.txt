@@ -1,7 +1,5 @@
+opencv-python-headless
+opencv-contrib-python-headless
 pygame
 cvzone
-mediapipe
-opencv-python
-opencv-contrib-python
 numpy
-libgl1-mesa-glx
